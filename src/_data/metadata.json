@@ -1,10 +1,10 @@
 {
-  "title": "Eleventy Not so minimal blog starter",
+  "title": "Journalism Portfolio - Louis M",
   "url": "https://eleventy-not-so-minimal-blog-starter.netlify.app",
   "language": "en",
-  "description": "Build your own website + blog with the 'not so minimal blog starter' which uses the Eleventy static site generator.",
+  "description": "",
   "author": {
-    "name": "firstname lastname",
+    "name": "Louis <itchell",
     "email": "hello@blog.com"
   },
   "image": "/assets/social-image.jpg",

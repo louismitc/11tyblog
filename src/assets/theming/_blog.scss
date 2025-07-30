@@ -3,3 +3,26 @@
     margin-top: 1.5em;
   }
 }
+
+
+
+.article_preview_row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.article_preview_column {
+    float: left;
+}
+
+.left {
+  width: 57.5%;
+  margin-right: 2.5%;
+}
+
+.right {
+  width: 37.5%;
+  margin-left: 2.5%;
+}

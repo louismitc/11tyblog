@@ -27,3 +27,33 @@ article {
     }
   }
 }
+
+.headline {
+  max-width: none;
+  width: 100%;
+  height: auto;
+}
+
+img.headline {
+  margin: 0 auto 0.4em auto;
+}
+
+
+.author {
+  display: inline-block;
+  font-weight: 600;
+  text-decoration: none;
+  margin-left: 0rem;
+  padding: .4rem 1rem;
+  border: 1px solid $base-clr;
+  border-radius: 6px;
+  line-height: 1;
+  color: $bg-clr;
+  background-color: $base-clr;
+
+  &:hover {
+    background-color: $bg-clr;
+    color: $base-clr;
+    transition: all 400ms ease-in;
+    }
+ }

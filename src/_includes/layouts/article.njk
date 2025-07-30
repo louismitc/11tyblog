@@ -3,10 +3,19 @@ layout: page
 ---
 
 <article class="article">
-  <h1>{{ title }}</h1>
+  <h1 class="headline">{{ title }}</h1>
   <small>
-    Published: <time>{{ date | readableDate }}</time>
-    <a class="category" href="/blog/{{ category }}">{{ category }}</a>
+    <a class="author" href="/louis-mitchell">By {{ author }}</a>
+    <a class="category" href="/blog/{{ category }}">{{ category }}</a> 
   </small>
+  <br>
+  <small> <i>
+    Published: <time>{{ date | readableDate }}</time> </i>
+  </small>
+  <img src="{{ lead_image }}" class="headline" alt="{{ lead_image_alt }}" />
+  <small> {{ lead_image_caption }} </small>
+  <br>
+  <hr>
+  <br>
   {{ content | safe }}
 </article>
