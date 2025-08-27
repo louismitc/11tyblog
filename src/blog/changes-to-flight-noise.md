@@ -13,8 +13,8 @@ Community members have slammed a key initiative to reduce flight noise from plan
 
 <!-- excerpt -->
 
-![yada](https://images.unsplash.com/photo-1555066931-4365d14bab8c)
-<p class="caption">  </p>
+![yada](https://d1c7drk47yg0al.cloudfront.net/D2W30T3xTMujsvjPpo37_494802342_10163288829149747_520369870598153068_n.jpg)
+<p class="caption">Groups such as the BFPCA have determinately campaigned against flight noise, including using mobile billboards during the 2025 Federal Election [Supplied]</p>
 
 In November 2024 Airservices Australia announced that SODPROPS would become Brisbane Airport’s “priority operating mode” when conditions allow, and planned to increase its usage from 2% to 5.3% of monthly flights in 2025.
 
@@ -23,7 +23,7 @@ SODPROPS, or Simultaneous Opposite Direction Parallel Runway Operations, refers 
 However, analysis provided to this masthead by the Brisbane Flight Path Community Alliance (BFPCA) reveals the target is yet to be reached, with SODPROPS used for only 3.9% of flights in April this year.
 
 ![yada](https://d1c7drk47yg0al.cloudfront.net/D2W30T3xTMujsvjPpo37_494802342_10163288829149747_520369870598153068_n.jpg)
-<p class="caption">Groups such as the BFPCA have determinately campaigned against flight noise, including using mobile billboards during the 2025 Federal Election [Supplied]</p>
+<p class="caption"> Analysis has painted a dire picture for sucsess of SODPROPS [Supplied]</p>
 
 Ross Stephens, who monitors SODPROPS usage for the BFPCA, said there has been “zero lived experience noise improvements” since Airservices Australia’s announcement.
 
