@@ -1,0 +1,62 @@
+media:
+  input: assets/media
+  output: /media
+content:
+  - name: articles
+    label: Articles
+    type: collection
+    path: 'src/blog'
+    view:
+      fields: [ published, title, date, category, author, lead_image, lead_image_alt, lead_image_caption ]
+    fields:
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: category
+        label: Category
+        type: string
+      - name: author
+        label: Author
+        type: string
+      - name: lead_image
+        label: Lead Image
+        type: string
+      - name: lead_image_alt
+        label: Lead Image Alternate Text
+        type: string
+      - name: lead_image_caption
+        label: Lead Image Caption
+        type: string
+  - name: site
+    label: Site settings
+    path: src/_data/metadata.json
+    type: file
+    fields:
+      - name: title
+        label: Website title
+        type: string
+      - name: description
+        label: Website description
+        type: string
+        description: Will be provused for any page with no description.
+      - name: url
+        label: Website URL
+        type: string
+        pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
+      - name: image
+        label: Preview image
+        type: image
+        description: Image used in the social preview on social networks (e.g. Facebook, Twitter...)
+      - name: language
+        label: Language
+        type: string
