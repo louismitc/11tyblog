@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Blog"
+title: "Articles"
 eleventyNavigation:
-    key: blog
+    key: articles
     order: 2
 pagination:
   data: collections.blog
@@ -11,8 +11,11 @@ pagination:
 ---
 
 <h1>{{ title }}</h1>
-<p>This view contains a list of all articles sorted from newest to oldest.</p>
+<p class="headline">This view contains a list of all articles sorted from newest to oldest.</p>
+<br>
+<hr>
+<br>
 
 {% include "./_includes/components/articleList.njk" %}
-
+<br>
 {% include "./_includes/components/categoryNav.njk" %}

@@ -18,4 +18,29 @@ layout: page
   <hr>
   <br>
   {{ content | safe }}
+  <br>
+  <hr>
+  <br>
+  <small>This article was published on <time>{{ date | readableDate }}</time> by <i>{{ author }}</i>.</small>
+  <small> <button id="clickshare" class="clickshare" onclick="copyText()">🔗 Share this article</button> </small>
+
+  <script>
+        function copyText() {
+            navigator.clipboard.writeText
+                ("blog.louis.fyi{{ page.url }}");
+        }
+    </script>
+    <script>
+document.getElementById('clickshare').addEventListener('click', function() {
+  const paragraph = document.getElementById('clickshare');
+  const originalText = paragraph.textContent; // Store original text
+
+  paragraph.textContent = '🔗 Link copied!'; // Change text temporarily
+
+  setTimeout(() => {
+    paragraph.textContent = originalText; // Revert text after 3 seconds
+  }, 3000);
+});
+    </script>
+
 </article>

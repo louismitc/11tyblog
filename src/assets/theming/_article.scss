@@ -19,7 +19,7 @@ article {
   small {
     display: inline-block;
     margin-bottom: 1em;
-  }
+      }
 
   p {
     + * {
@@ -27,6 +27,20 @@ article {
     }
   }
 }
+
+.caption {
+    margin-bottom: 1em;
+    font-style: italic;
+    max-width: 75% !important;
+    font-size: smaller;
+    margin: -1em auto 1em auto;
+      }
+
+img + em {
+  font-size: 2rem;
+  font-style: italic;
+}
+ 
 
 .headline {
   max-width: none;
@@ -57,3 +71,28 @@ img.headline {
     transition: all 400ms ease-in;
     }
  }
+
+
+.clickshare {
+  display: inline-block;
+  font-family: $main-font;
+  font-weight: 600;
+  text-decoration: none;
+  margin-left: 0rem;
+  padding: .4rem 1rem;
+  border: 1px solid $base-clr;
+  border-radius: 6px;
+  line-height: 1;
+  color: $bg-clr;
+  background-color: $base-clr;
+  transition: all 3000ms ease-in-out;
+
+
+  &:active {
+    background-color: $bg-clr;
+    color: $base-clr;
+    transition: all 0.1ms ease-in;
+    }
+    }
+
+ 
