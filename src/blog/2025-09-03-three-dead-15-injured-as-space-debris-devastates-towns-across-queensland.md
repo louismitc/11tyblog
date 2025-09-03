@@ -4,15 +4,13 @@ date: 2025-08-15
 title: Three dead, 15 injured as space debris devastates towns across Queensland
 category: Local News
 author: Louis Mitchell
+lead_image: https://raw.githubusercontent.com/louismitc/11tyblog/981fdfc90616b6a77ace6d661188023105731c5d/assets/media/fireball_of_debris.png
+lead_image_alt: A piece of debris is seen falling outside
+  Goondiwindi  [@outback_adventurer via Instagram]
+lead_image_caption: ‘Like a shooting star but way bigger and louder’ – residents
+  recount ‘fireball’ of debris which left infrastructure in
+  ‘ruin’.  [@outback_adventurer via Instagram]
 ---
-_‘Like a shooting star but way bigger and louder’_
-
-_– residents recount ‘fireball’ of debris_
-
-_which left infrastructure in ‘ruin’_
-
-_. \[@outback\_adventurer via Instagram\]_
-
 Communities across Queensland are reeling after debris from a defunct satellite crashed into several regional centres on Friday, resulting in three deaths, 15 injuries, and millions of dollars in property and infrastructure damage.
 
 Beginning in the late morning, cities and towns in coastal and central Queensland were hit by a barrage of small pieces of the space debris, described by one Hervey Bay resident as “a shooting star but way bigger and louder”.
