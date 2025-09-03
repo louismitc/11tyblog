@@ -1,12 +1,6 @@
 {
   "title": "Journalism Portfolio - Louis M",
-  "url": "https://eleventy-not-so-minimal-blog-starter.netlify.app",
-  "language": "en",
-  "description": "",
-  "author": {
-    "name": "Louis Mitchell",
-    "email": "hello@blog.com"
-  },
+  "url": "blog.louis.fyi",
   "image": "/assets/social-image.jpg",
-  "feedUrl": "https://eleventy-not-so-minimal-blog-starter.netlify.app/feed.xml"
+  "language": "en"
 }
