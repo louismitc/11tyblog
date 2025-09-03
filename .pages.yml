@@ -7,12 +7,12 @@ content:
     type: collection
     path: 'src/blog'
     view:
-      fields: [ published, title, date, category, author, lead_image, lead_image_alt, lead_image_caption ]
+      fields: [ layout, title, date, category, author, lead_image, lead_image_alt, lead_image_caption ]
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
+      - name: layout
+        label: Layout
+        type: string
+        default: article
       - name: date
         label: Date
         type: date
