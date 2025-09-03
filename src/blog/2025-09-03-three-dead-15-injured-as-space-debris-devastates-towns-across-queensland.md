@@ -1,12 +1,12 @@
 ---
-published: false
+layout: article
 date: 2025-08-15
 title: Three dead, 15 injured as space debris devastates towns across Queensland
 category: Local News
 author: Louis Mitchell
 lead_image: https://raw.githubusercontent.com/louismitc/11tyblog/981fdfc90616b6a77ace6d661188023105731c5d/assets/media/fireball_of_debris.png
-lead_image_alt: A piece of debris is seen falling outside
-  Goondiwindi  [@outback_adventurer via Instagram]
+lead_image_alt: A piece of debris is seen falling outside Goondiwindi
+  [@outback_adventurer via Instagram]
 lead_image_caption: ‘Like a shooting star but way bigger and louder’ – residents
   recount ‘fireball’ of debris which left infrastructure in
   ‘ruin’.  [@outback_adventurer via Instagram]
