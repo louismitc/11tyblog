@@ -29,6 +29,8 @@ Others weren’t so lucky. In Maryborough, a coastal city on the Fraser Coast, r
 
 Speaking at a press conference in Maryborough, Queensland Emergency Services Minister Dan Purdie said the cost of damages was already estimated to be in the millions of dollars.
 
+![](/media/ezgif-3a96498e10bbdb.gif)
+
 _The disaster caused dramatic scenes in regional centres as residents ran from falling debris. This harrowing near miss was caught on CCTV footage. \[GIF via News24\]_
 
 **Emergency services spring into action**
